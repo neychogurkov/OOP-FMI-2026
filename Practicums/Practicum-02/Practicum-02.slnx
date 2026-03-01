@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Task-01-ComplexNumbers/Task-01-ComplexNumbers.vcxproj" Id="6fee9961-53e4-44df-8816-1da4df587797" />
+  <Project Path="Task-02-Point2D/Task-02-Point2D.vcxproj" Id="a2da91e6-f3fc-4acc-930b-2bb36303bc15" />
+  <Project Path="Task-03-Triangle/Task-03-Triangle.vcxproj" Id="bdbea0a9-bf95-469e-9cb1-25282beab27f" />
+  <Project Path="Task-04-Playlist/Task-04-Playlist.vcxproj" Id="41f8fbf2-9ff2-4f03-9c1e-d4cc203260ba" />
+  <Project Path="Task-05-Polynomial/Task-05-Polynomial.vcxproj" Id="b48ef6a3-014b-48fe-8eed-27b599e7f930" />
+  <Project Path="Task-06-StudentManagement/Task-06-StudentManagement.vcxproj" Id="ee80f915-9a58-4aa7-ab50-8b10c7da20ca" />
+</Solution>
