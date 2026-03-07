@@ -1,0 +1,7 @@
+C++ is a powerful
+general-purpose programming
+language. It was developed by
+
+Bjarne Stroustrup as an
+extension of the
+C language.

@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Task-01-PrintFileContents/Task-01-PrintFileContents.vcxproj" Id="d09d146e-51e8-47d5-b019-e9ee8138753d" />
+  <Project Path="Task-02-SaveSumAndProduct/Task-02-SaveSumAndProduct.vcxproj" Id="f46519be-03e3-40f8-a776-547075381387" />
+  <Project Path="Task-03-SaveHalfFile/Task-03-SaveHalfFile.vcxproj" Id="526b0fa4-b052-4fcf-ac03-494bf2ae95f5" />
+  <Project Path="Task-04-wcCommand/Task-04-wcCommand.vcxproj" Id="089f739e-87c1-44e3-8ee2-e1152d77b25e" />
+  <Project Path="Task-05-Vectors/Task-05-Vectors.vcxproj" Id="5a79a435-5eb0-4688-a362-1315efdaab27" />
+  <Project Path="Task-06-Car/Task-06-Car.vcxproj" Id="99604f36-a13b-4d5d-ad3a-9fc56ed78cdd" />
+</Solution>
