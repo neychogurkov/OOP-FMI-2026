@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Task-01-KBaseNumber/Task-01-KBaseNumber.vcxproj" Id="e63aa741-976d-4379-a5fa-ecf463dba5db" />
+  <Project Path="Task-02-TreasureMap/Task-02-TreasureMap.vcxproj" Id="aef5d614-1ce0-4246-b402-0e37e7bcb90b" />
+</Solution>
