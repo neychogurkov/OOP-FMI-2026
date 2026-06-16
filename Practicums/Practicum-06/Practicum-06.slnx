@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ConsoleApplication1/ConsoleApplication1.vcxproj" />
+  <Project Path="Task-01-GradeReport/Task-01-GradeReport.vcxproj" />
+  <Project Path="Task-02-Navy/Task-02-Navy.vcxproj" />
+</Solution>
