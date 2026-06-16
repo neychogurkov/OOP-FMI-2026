@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Task-01-SpecialCustomFunction/Task-01-SpecialCustomFunction.vcxproj" />
+  <Project Path="Task-02-NumericalVector/Task-02-NumericalVector.vcxproj" />
+</Solution>
