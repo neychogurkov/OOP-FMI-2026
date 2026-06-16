@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="UNO-Game/UNO-Game.vcxproj" Id="34ee4e21-7496-4079-8cc0-045713cc3472" />
+</Solution>
